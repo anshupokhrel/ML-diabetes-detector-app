@@ -1,6 +1,6 @@
 #  Diabetes Prediction App
 
-A machine learning web application that predicts the risk of diabetes based on clinical patient data, built with **Streamlit** and trained on the **PIMA Indians Diabetes Dataset**.
+A machine learning web application that predicts the risk of diabetes based on clinical patient data, built with **Streamlit** and trained on the **Nepalese Diabetes Dataset**.
 
 ---
 
